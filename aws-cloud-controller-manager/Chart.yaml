@@ -3,6 +3,6 @@ appVersion: v1.23.0-alpha.0
 description: Installs Cloud Controller Manager for AWS Cloud Provider
 maintainers:
 - email: nic@amazon.com
-  name: Nick Turner
+  name: Gerardo Lopez
 name: aws-cloud-controller-manager
 version: 0.0.6
