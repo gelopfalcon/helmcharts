@@ -40,5 +40,7 @@ spec:
           {{- toYaml .Values.resources | nindent 12 }}
       volumes:
       - name: k3s-keys
-        emptyDir: {}
+        hostPath:
+          path: /var/lib/rancher/k3s/server/tls
+          type: Directory
 ---

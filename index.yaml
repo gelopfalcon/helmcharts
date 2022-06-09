@@ -3,9 +3,9 @@ entries:
   aws-cloud-controller-manager:
   - apiVersion: v1
     appVersion: v1.23.0-alpha.0
-    created: "2022-06-09T08:04:44.62686-06:00"
+    created: "2022-06-09T08:29:48.966836-06:00"
     description: Installs Cloud Controller Manager for AWS Cloud Provider
-    digest: 711a74e0ba36ef12530422d164f246241679843ad7362af84e57fa5ffff7dbd9
+    digest: 71e54bbb984e91bfc1a072c1cc2ba4223732ce7b43eaffc3ab77b344c20ce410
     maintainers:
     - email: nic@amazon.com
       name: Gerardo Lopez
@@ -13,4 +13,4 @@ entries:
     urls:
     - charts/aws-cloud-controller-manager-0.0.6.tgz
     version: 0.0.6
-generated: "2022-06-09T08:04:44.626044-06:00"
+generated: "2022-06-09T08:29:48.965917-06:00"
